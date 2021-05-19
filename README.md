@@ -1,1 +1,1 @@
-# Tsukanov_A_hw1
+# First hw folder structure
